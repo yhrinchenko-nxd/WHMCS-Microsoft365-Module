@@ -1041,6 +1041,7 @@ function synergywholesale_microsoft365_AdminServicesTabFields($params)
         '' => "<span style='font-weight: bold'>SUBSCRIPTION ORDERS PLACED DIRECTLY THROUGH WHMCS WILL BE BILLED ON A PRO-RATA BASIS IN SYNERGY WHOLESALE. PLEASE PLACE ANNUAL OR ANNIVERSARY MONTHLY SUBSCRIPTIONS DIRECTLY THROUGH THE MANAGEMENT SYSTEM, AND SYNCHRONISE TO WHMCS.</span>",
     ];
 }
+
 function synergywholesale_microsoft365_metaData()
 {
     return [
